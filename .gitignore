@@ -1,0 +1,17 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+*bin
+*obj
+*.vs
+*.fake
+*dist
+/release
+*.svn
+*.fake-cli
+*.paket
+*node_modules
+*.umi
+*nuget-package-caches
+*.umi-production
